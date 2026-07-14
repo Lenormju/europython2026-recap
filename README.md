@@ -30,6 +30,8 @@ Vyron Vasileiadis
 
 Sylwia Budzynska
 
+* https://github.com/sylwia-budzynska/codeql-workshop/
+
 ### 19h30: Speaker Dinner
 
 ## Wednesday 2026-07-15: Talks

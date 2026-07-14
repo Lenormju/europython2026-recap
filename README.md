@@ -22,7 +22,7 @@ Did not attend any workshop, instead I took a nap and went visiting the city.
 Vyron Vasileiadis
 
 * https://github.com/qilimanjaro-tech/europython2026-qilisdk-tutorial
-* https://githack.com/qilimanjaro-tech/europython2026-qilisdk-tutorial/blob/main/slides/qilisdk_tutorial.html
+* https://htmlpreview.github.io/?https://github.com/qilimanjaro-tech/europython2026-qilisdk-tutorial/blob/main/slides/qilisdk_tutorial.html
 * https://github.com/qilimanjaro-tech/qilisdk
 * https://qilimanjaro-tech.github.io/qilisdk
 

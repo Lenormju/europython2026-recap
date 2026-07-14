@@ -35,6 +35,8 @@ Sylwia Budzynska
 
 ## Thursday 2026-07-16: Talks
 
+### 19h00: Social event
+
 ## Friday 2026-07-17: Talks
 
 ## Saturday 2026-07-18: Sprint

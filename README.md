@@ -94,6 +94,16 @@ Manivannan Selvaraj
 * pr review vs leadership: reviewing becomes a bottleneck, create copies of myself versus create autonomous people
 * loving being a hero: firefighter versus building for tomorrow
 
+* let people own their decisions
+* don't rescue every problem
+* stand up for the team
+* give credit
+* create independance
+* grow trust
+
+* engineers solve problems
+* tech leads create problem solvers
+
 ### 12h50-13h50 Poster: A tour of the module `itertools`
 
 Rodrigo Girão Serrão

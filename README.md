@@ -59,6 +59,12 @@ Perrow - Normal accidents, they happen, due to interactive complexity and tight 
 
 Nikita Karamov
 
+[slides](https://programme.europython.eu/media/europython-2026/submissions/M8Q77Z/resources/Should_you_jbXzWD1.pdf)
+
+GhostAction + ShaiHulud + LiteLLM supply-chain attacks
+
+OIDC = OpenID Connect, based on OAuth 2.0
+
 ### 11h40-12h10 Talk: The Human-in-the-Loop is Tired
 
 Laura Summers

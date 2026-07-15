@@ -89,10 +89,10 @@ Manivannan Selvaraj
 * remove blockers
 * celebrate them, not you
 
-* decision machine
-* jira vs leadership
-* pr review vs leadership
-* loving being a hero
+* decision machine: dont ask for micro-changes, share understandings
+* jira vs leadership: a task is for an outcome (why)
+* pr review vs leadership: reviewing becomes a bottleneck, create copies of myself versus create autonomous people
+* loving being a hero: firefighter versus building for tomorrow
 
 ### 12h50-13h50 Poster: A tour of the module `itertools`
 

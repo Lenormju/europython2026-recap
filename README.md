@@ -83,17 +83,20 @@ Freya Bruhin
 
 Manivannan Selvaraj
 
+Goals:
 * trust your team
 * ask better questions
 * create clarity
 * remove blockers
 * celebrate them, not you
 
+Issues:
 * decision machine: dont ask for micro-changes, share understandings
 * jira vs leadership: a task is for an outcome (why)
 * pr review vs leadership: reviewing becomes a bottleneck, create copies of myself versus create autonomous people
 * loving being a hero: firefighter versus building for tomorrow
 
+Do:
 * let people own their decisions
 * don't rescue every problem
 * stand up for the team
@@ -101,6 +104,7 @@ Manivannan Selvaraj
 * create independance
 * grow trust
 
+Remember:
 * engineers solve problems
 * tech leads create problem solvers
 
@@ -116,7 +120,31 @@ Kuldeep Pisda
 
 Julien Lenormand, Maria Lowas-Rzechonek, Mike Fiedler, Seth Michael Larson, Sylwia Budzynska
 
-### TODO
+### 15h25-15h55: How many spoons does your environment cost: Broken demos & human element
+
+Dawn Wages
+
+https://ep2026.europython.eu/session/how-many-spoons-does-your-environment-cost-broken-demos-human-element
+
+https://dawnwages.info/ep-26/
+
+Spoon theory
+
+why environments fail ?
+* messy abstraction layers
+* wrong mental model
+* messy process
+
+why do we fail ?
+* memory model
+* switching tasks
+* masking tax
+
+### 15h25-15h55: uvx which-profiler – Which Profiler, When
+
+Jonathan Striebel
+
+https://ep2026.europython.eu/session/uvx-which-profiler-which-profiler-when
 
 ## Thursday 2026-07-16: Talks
 

@@ -43,7 +43,7 @@ I tried to set it up locally, and even with Claude's help, I could not execute m
 
 ## Wednesday 2026-07-15: Talks
 
-### 09h30-10h15 Keynote: How Complex Systems Taught Me To Fail
+### ❤️ 09h30-10h15 Keynote: How Complex Systems Taught Me To Fail
 
 Imogen Wright
 
@@ -87,7 +87,12 @@ Manivannan Selvaraj
 * ask better questions
 * create clarity
 * remove blockers
-* celebrate them, not you 
+* celebrate them, not you
+
+* decision machine
+* jira vs leadership
+* pr review vs leadership
+* loving being a hero
 
 ### 12h50-13h50 Poster: A tour of the module `itertools`
 

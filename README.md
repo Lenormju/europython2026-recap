@@ -85,6 +85,10 @@ Rodrigo Girão Serrão
 
 Kuldeep Pisda
 
+### 13h50-14h50 Panel: Security and Ethics in the Age of Generative AI
+
+Julien Lenormand, Maria Lowas-Rzechonek, Mike Fiedler, Seth Michael Larson, Sylwia Budzynska
+
 ### TODO
 
 ## Thursday 2026-07-16: Talks

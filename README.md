@@ -49,6 +49,12 @@ Imogen Wright
 
 [Richard I. Cook : How Complex Systems Fail](https://how.complexsystems.fail/)
 
+Covid-19 Omicron
+
+Nancy Leveson - STAMP/STPA, loss, there is no single root cause
+
+Perrow - Normal accidents, they happen, due to interactive complexity and tight coupling
+
 ### 10h45-11h30 Talk: Should you trust Trusted Publishing?
 
 Nikita Karamov

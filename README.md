@@ -47,6 +47,8 @@ I tried to set it up locally, and even with Claude's help, I could not execute m
 
 Imogen Wright
 
+[Richard I. Cook : How Complex Systems Fail](https://how.complexsystems.fail/)
+
 ### 10h45-11h30 Talk: Should you trust Trusted Publishing?
 
 Nikita Karamov

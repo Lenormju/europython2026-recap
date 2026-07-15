@@ -6,6 +6,8 @@
 
 Animating a workshop with **Jonathan Gaffiot**
 
+https://ep2026.europython.eu/session/getting-out-of-the-testing-hell
+
 * https://github.com/Lenormju/getting-out-testing-hell
 * https://gitlab.com/jgaffiot1/getting-out-testing-hell
 
@@ -21,6 +23,8 @@ Did not attend any workshop, instead I took a nap and went visiting the city.
 
 Vyron Vasileiadis
 
+https://ep2026.europython.eu/session/learn-quantum-computing-with-qilisdk-from-circuits-to-pulse-level-control
+
 * https://github.com/qilimanjaro-tech/europython2026-qilisdk-tutorial
 * https://htmlpreview.github.io/?https://github.com/qilimanjaro-tech/europython2026-qilisdk-tutorial/blob/main/slides/qilisdk_tutorial.html
 * https://github.com/qilimanjaro-tech/qilisdk
@@ -31,6 +35,8 @@ Very high quality, but not much hands-on (around 20 minutes, for a 180-minutes w
 ### 13h45-17h00: Introduction to security research. Find a CVE with CodeQL.
 
 Sylwia Budzynska
+
+https://ep2026.europython.eu/session/introduction-to-security-research-find-a-cve-with-codeql
 
 * https://github.com/sylwia-budzynska/codeql-workshop/
 
@@ -47,6 +53,8 @@ I tried to set it up locally, and even with Claude's help, I could not execute m
 
 Imogen Wright
 
+https://ep2026.europython.eu/session/how-complex-systems-taught-me-to-fail
+
 [Richard I. Cook : How Complex Systems Fail](https://how.complexsystems.fail/)
 
 Covid-19 Omicron
@@ -55,9 +63,11 @@ Nancy Leveson - STAMP/STPA, loss, there is no single root cause
 
 Perrow - Normal accidents, they happen, due to interactive complexity and tight coupling
 
-### 10h45-11h30 Talk: Should you trust Trusted Publishing?
+### ❤️ 10h45-11h30 Talk: Should you trust Trusted Publishing?
 
 Nikita Karamov
+
+https://ep2026.europython.eu/session/should-you-trust-trusted-publishing
 
 [slides](https://programme.europython.eu/media/europython-2026/submissions/M8Q77Z/resources/Should_you_jbXzWD1.pdf)
 
@@ -73,15 +83,23 @@ PyPI trusted publishers: GitHub, GitLab, Google Cloud, ActiveState
 
 Laura Summers
 
+https://ep2026.europython.eu/session/the-human-in-the-loop-is-tired
+
 Could not attend, the room was crowded
 
 ### 11h40-12h10 Talk: Property based testing with Hypothesis
 
 Freya Bruhin
 
+https://ep2026.europython.eu/session/property-based-testing-with-hypothesis
+
+Good intro to Hypothesis, and which specific problems it tries to solve.
+
 ### 12h20-12h50 Talk: From Code Hero to Team Leader: Learning to Let Go
 
 Manivannan Selvaraj
+
+https://ep2026.europython.eu/session/from-code-hero-to-team-leader-learning-to-let-go
 
 Goals:
 * trust your team
@@ -120,7 +138,7 @@ Kuldeep Pisda
 
 Julien Lenormand, Maria Lowas-Rzechonek, Mike Fiedler, Seth Michael Larson, Sylwia Budzynska
 
-### 15h25-15h55: How many spoons does your environment cost: Broken demos & human element
+### 15h25-15h55 Talk: How many spoons does your environment cost: Broken demos & human element
 
 Dawn Wages
 
@@ -140,11 +158,55 @@ why do we fail ?
 * switching tasks
 * masking tax
 
-### 15h25-15h55: uvx which-profiler – Which Profiler, When
+### 15h25-15h55 Talk: uvx which-profiler – Which Profiler, When
 
 Jonathan Striebel
 
 https://ep2026.europython.eu/session/uvx-which-profiler-which-profiler-when
+
+Could not attend, waiting for the replay
+
+### 16h05-16h35 Talk: Demystifying CRA for the community
+
+Anwesha Das
+
+https://ep2026.europython.eu/session/demystifying-cra-for-the-community
+
+Cyber Resilience Act
+
+nice memes
+
+how to reduce the vulnerability window duraion ? how to fix issues faster ?
+
+building trust: secure by default (not just compliance)
+* take proper mesures during conception, have secured development environemnts, keep secrets secure
+* address security issues
+* providing updates
+* mandatory transparency
+
+FOSS maintainers under no obligation, but can follow guidelines
+
+PSF is only a steward (helps make viable, nut are not the original creator), not responsible either
+
+https://access.redhat.com/security/eu-cyber-resilience-act-stewardship-guidelines
+
+https://devguide.python.org/security/policy/
+
+https://orcwg.org/cra/
+
+https://cra.orcwg.org/faq/all/
+
+### 16h45-17h30 Podcast: Core.py recording with Guido van Rossum
+
+Pablo Galindo Salgado, Guido van Rossum, Łukasz Langa
+
+`perchance` keyword
+
+### 17h30-17h40 Announcement: EuroPython 25th anniversary
+
+### 17h40-17h55: Python Quiz
+
+### 17h55-18h40: Lightning talks
 
 ## Thursday 2026-07-16: Talks
 

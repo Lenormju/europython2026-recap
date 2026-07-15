@@ -73,9 +73,21 @@ PyPI trusted publishers: GitHub, GitLab, Google Cloud, ActiveState
 
 Laura Summers
 
+Could not attend, the room was crowded
+
+### 11h40-12h10 Talk: Property based testing with Hypothesis
+
+Freya Bruhin
+
 ### 12h20-12h50 Talk: From Code Hero to Team Leader: Learning to Let Go
 
-Manivannan Selvaraj 
+Manivannan Selvaraj
+
+* trust your team
+* ask better questions
+* create clarity
+* remove blockers
+* celebrate them, not you 
 
 ### 12h50-13h50 Poster: A tour of the module `itertools`
 

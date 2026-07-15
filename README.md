@@ -71,6 +71,8 @@ https://ep2026.europython.eu/session/should-you-trust-trusted-publishing
 
 [slides](https://programme.europython.eu/media/europython-2026/submissions/M8Q77Z/resources/Should_you_jbXzWD1.pdf)
 
+https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing
+
 GhostAction + ShaiHulud + LiteLLM supply-chain attacks
 
 OIDC = OpenID Connect, based on OAuth 2.0
@@ -209,6 +211,38 @@ Pablo Galindo Salgado, Guido van Rossum, Łukasz Langa
 ### 17h55-18h40: Lightning talks
 
 ## Thursday 2026-07-16: Talks
+
+### 09h20-10h05 Keynote: The Pursuit Of Purity (The Right Way To Do AI)
+
+Marlene Mhangami
+
+https://ep2026.europython.eu/session/the-pursuit-of-purity-the-right-way-to-do-ai
+
+### 10h05-10h30 Announcement: Python Steering Council Update
+
+### 10h50-11h35 Talk: The Hidden Cost of Complexity: Reducing Cognitive Load in Python
+
+Jarosław Śmietanka
+
+https://ep2026.europython.eu/session/the-hidden-cost-of-complexity-reducing-cognitive-load-in-python
+
+### 10h50-11h35 Talk: Navigating waters of background jobs and queues in Python as of 2026
+
+Sebastian Buczyński
+
+https://ep2026.europython.eu/session/navigating-waters-of-background-jobs-and-queues-in-python-as-of-2026
+
+### 10h50-11h35 Talk: From one to 1 million packet/second: scaling global Internet monitoring
+
+Marco Grossi
+
+https://ep2026.europython.eu/session/from-one-to-1-million-packet-second-scaling-global-internet-monitoring
+
+### 11h45-12h15 Talk: Deploying Python Web Apps in 2026
+
+Will Vincent
+
+https://ep2026.europython.eu/session/deploying-python-web-apps-in-2026
 
 ### TODO
 

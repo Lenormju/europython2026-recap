@@ -65,6 +65,10 @@ GhostAction + ShaiHulud + LiteLLM supply-chain attacks
 
 OIDC = OpenID Connect, based on OAuth 2.0
 
+humans don't need to manage secrets, they configure their accounts and let servers handle the rest
+
+PyPI trusted publishers: GitHub, GitLab, Google Cloud, ActiveState
+
 ### 11h40-12h10 Talk: The Human-in-the-Loop is Tired
 
 Laura Summers

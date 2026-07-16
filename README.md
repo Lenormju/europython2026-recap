@@ -354,6 +354,16 @@ Will Vincent
 
 https://ep2026.europython.eu/session/deploying-python-web-apps-in-2026
 
+### How we write unit test in my team in Openchip
+
+Jan Koprowski
+
+https://ep2026.europython.eu/session/how-we-write-unit-test-in-my-team-in-openchip
+
+https://github.com/jankoprowski/ep2026
+
+Did not attend. Slides are in pptx.
+
 ## 12h25-12h55 Talk: Django’s Magic, FastAPI’s Reality: Test Isolation at Scale
 
 Maciej Sobczak

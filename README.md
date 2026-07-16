@@ -319,6 +319,8 @@ https://ep2026.europython.eu/session/navigating-waters-of-background-jobs-and-qu
 Look into Dramatiq. Also, Temporal is a good fit for complex workflows.
 Shared to Ludo.
 
+TODO slides
+
 Pick your battles when making architecture decisions:
 * simplicity
 * developer experience

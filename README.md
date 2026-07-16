@@ -108,7 +108,9 @@ Nikita Karamov
 
 https://ep2026.europython.eu/session/should-you-trust-trusted-publishing
 
-[slides](https://programme.europython.eu/media/europython-2026/submissions/M8Q77Z/resources/Should_you_jbXzWD1.pdf)
+[slides (direct download link)](https://programme.europython.eu/media/europython-2026/submissions/M8Q77Z/resources/Should_you_jbXzWD1.pdf)
+
+[slides on SpeakerDeck](https://speakerdeck.com/kytta/should-you-trust-trusted-publishing)
 
 https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing
 
@@ -120,13 +122,17 @@ humans don't need to manage secrets, they configure their accounts and let serve
 
 PyPI trusted publishers: GitHub, GitLab, Google Cloud, ActiveState
 
+https://pypi.org/project/gcp-attest/
+
 ### 11h40-12h10 Talk: The Human-in-the-Loop is Tired
 
 Laura Summers
 
 https://ep2026.europython.eu/session/the-human-in-the-loop-is-tired
 
-Could not attend, the room was crowded
+Could not attend, the room was too crowded.
+
+https://summerscope.github.io/slides/the-human-in-the-loop-is-tired-pl/
 
 ### 11h40-12h10 Talk: Property based testing with Hypothesis
 
@@ -135,6 +141,8 @@ Freya Bruhin
 https://ep2026.europython.eu/session/property-based-testing-with-hypothesis
 
 Good intro to Hypothesis, and which specific problems it tries to solve.
+
+https://github.com/the-compiler/hypothesis-talk
 
 ### 12h20-12h50 Talk: From Code Hero to Team Leader: Learning to Let Go
 
@@ -223,6 +231,8 @@ https://ep2026.europython.eu/session/uvx-which-profiler-which-profiler-when
 
 Could not attend, waiting for the replay
 
+https://github.com/jstriebel/which-profiler
+
 ### 16h05-16h35 Talk: Demystifying CRA for the community
 
 Anwesha Das
@@ -310,6 +320,8 @@ Jarosław Śmietanka
 
 https://ep2026.europython.eu/session/the-hidden-cost-of-complexity-reducing-cognitive-load-in-python
 
+https://github.com/exploy/cognitive-load-europython-2026
+
 ### 10h50-11h35 Talk: Navigating waters of background jobs and queues in Python as of 2026
 
 Sebastian Buczyński
@@ -360,7 +372,7 @@ https://medium.com/manychat-engineering/practical-observability-checklist-for-ap
 
 https://medium.com/manychat-engineering/practical-observability-checklist-for-apis-workers-jobs-part-2-d07553ee80f1
 
-TODO slides
+[slides](https://dariakors.github.io/talks/europython-2026-stop-firefighting-practical-observability/)
 
 what does observable mean?
 * is it up?
@@ -411,6 +423,8 @@ https://ep2026.europython.eu/session/leverage-pytest-s-fixture-to-write-focused-
 
 May be worth a replay.
 
+https://ilovelinux.dev/ep26
+
 ### 14h30-15h00 Talk: What is this footgun called unittest.mock, and how to avoid misusing it
 
 Claudiu Belu
@@ -441,7 +455,11 @@ Vlad-Stefan Harbuz
 
 https://ep2026.europython.eu/session/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on
 
-Very interesting, I'll watch a replay if I can't attend.
+Very interesting!
+
+talk adn replay: https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/
+
+article: https://vlad.website/how-binary-dependencies-work/
 
 ### 16h00-16h30 Talk: AI Slop to AI Gold: Building Codebases That Last
 

@@ -8,6 +8,18 @@
 * [Saturday](#saturday-2026-07-18-sprints)
 * [Sunday](#sunday-2026-06-19-sprints)
 
+My favorites:
+
+* Imogen Wright - How Complex Systems Taught Me To Fail
+* Nikita Karamov - Should you trust Trusted Publishing?
+
+Talks to watch in replay:
+
+* Laura Summers - The Human-in-the-Loop is Tired
+* Marco Grossi - From one to 1 million packet/second: scaling global Internet 
+* Jonathan Striebel - uvx which-profiler – Which Profiler, When
+* Katie Bickford - Why doing difficult things is good for you and good for your team
+
 ## Monday 2026-07-13: Tutorials
 
 ### 09h30-12h45: Getting out of the Testing Hell
@@ -20,6 +32,25 @@ https://ep2026.europython.eu/session/getting-out-of-the-testing-hell
 * https://gitlab.com/jgaffiot1/getting-out-testing-hell
 
 Around 55 people attended, and we got great feedback.
+
+### 09h30-12h45: Cooking with asyncio: an introduction to asynchronous programming
+
+Rodrigo Girão Serrão
+
+https://ep2026.europython.eu/session/cooking-with-asyncio-an-introduction-to-asynchronous-programming
+
+I would have liked to attend this workshop, but couldn't.
+
+* repo: https://github.com/mathspp/asyncio
+* slides: https://asyncio.mathspp.com/intro.html
+
+### 09h30-17h00: Packaging Summit
+
+https://ep2026.europython.eu/session/packaging-summit
+
+Would have loved to attend, but sadly couldn't.
+
+Notes: https://hackmd.io/@jezdez/europython2026-packaging-summit
 
 ### Afternoon
 
@@ -148,6 +179,22 @@ Kuldeep Pisda
 
 Julien Lenormand, Maria Lowas-Rzechonek, Mike Fiedler, Seth Michael Larson, Sylwia Budzynska
 
+https://ep2026.europython.eu/session/security-and-ethics-in-the-age-of-generative-ai
+
+### 13h50-14h20 Talk: Why doing difficult things is good for you and good for your team
+
+Katie Bickford
+
+https://ep2026.europython.eu/session/why-doing-difficult-things-is-good-for-you-and-good-for-your-team
+
+Could not attend, may be worth a replay.
+
+### 14h30-15h00 Talk: Beyond `Optional` in Real-World Projects: Missing, `None`, and Unset
+
+Koudai Aono
+
+https://ep2026.europython.eu/session/beyond-optional-in-real-world-projects-missing-none-and-unset
+
 ### 15h25-15h55 Talk: How many spoons does your environment cost: Broken demos & human element
 
 Dawn Wages
@@ -253,6 +300,8 @@ https://github.com/marlenezw/europython26
 
 > I keep struggling to find ways to try them the right way, the way that people I know and otherwise respect claim to be using them.  — Glyph Lefkowitz, “I think I’m done thinking about genAI for now” (2025)
 
+Nothing new to me, just a light overview of the AI tooling ecosystem, without any details. And all their demos failed.
+
 ### 10h05-10h30 Announcement: Python Steering Council Update
 
 ### 10h50-11h35 Talk: The Hidden Cost of Complexity: Reducing Cognitive Load in Python
@@ -267,11 +316,16 @@ Sebastian Buczyński
 
 https://ep2026.europython.eu/session/navigating-waters-of-background-jobs-and-queues-in-python-as-of-2026
 
+Look into Dramatiq. Also, Temporal is a good fit for complex workflows.
+Shared to Ludo.
+
 ### 10h50-11h35 Talk: From one to 1 million packet/second: scaling global Internet monitoring
 
 Marco Grossi
 
 https://ep2026.europython.eu/session/from-one-to-1-million-packet-second-scaling-global-internet-monitoring
+
+Well worth a replay !
 
 ### 11h45-12h15 Talk: Deploying Python Web Apps in 2026
 

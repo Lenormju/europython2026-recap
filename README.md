@@ -377,7 +377,7 @@ Fridtjof Stoldt, Tobias Wrigstad
 
 https://ep2026.europython.eu/session/immutability-fast-and-safe-sharing-of-data-across-subinterpreters
 
-Seems interestingn but very situational.
+Seems interestinng but very situational.
 
 ## 13h05-13h35 Talk: Python Dicts: Past, Present, and Free-Threaded Future
 
@@ -385,11 +385,15 @@ Lysandros Nikolaou
 
 https://ep2026.europython.eu/session/python-dicts-past-present-and-free-threaded-future
 
+Very technical, about how to make them thread-safe without the GIL enforcing linearity, and still performant.
+
 ### 13h15-14h15 Poster: Python Syntax Diagram
 
 Petr Viktorin
 
 https://ep2026.europython.eu/session/python-syntax-diagram
+
+Very well done!
 
 ### 14h30-15h00 Talk: Anatomy of a Phishing Campaign
 
@@ -420,6 +424,8 @@ May be worth a replay, specially for the OpenStack part.
 Tereza Iofciu
 
 https://ep2026.europython.eu/session/leading-under-pressure
+
+Mostly for Pyladies, not the general public, but was not announced as such.
 
 ### 16h00-16h30 Talk: Learning from the not-so-secret Python security "cabal"
 

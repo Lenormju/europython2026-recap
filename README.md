@@ -1,5 +1,13 @@
 # My recap of EuroPython 2026
 
+* [Monday](#monday-2026-07-13-tutorials)
+* [Tuesday](#tuesday-2026-07-14-tutorials)
+* [Wednesday](#wednesday-2026-07-15-talks)
+* [Thursday](#thursday-2026-07-16-talks)
+* [Friday](#friday-2026-07-17-talks)
+* [Saturday](#saturday-2026-07-18-sprints)
+* [Sunday](#sunday-2026-06-19-sprints)
+
 ## Monday 2026-07-13: Tutorials
 
 ### 09h30-12h45: Getting out of the Testing Hell
@@ -303,7 +311,31 @@ https://ep2026.europython.eu/session/python-dicts-past-present-and-free-threaded
 
 Petr Viktorin
 
-### 14h30-15h00 Talk: 
+https://ep2026.europython.eu/session/python-syntax-diagram
+
+### 14h30-15h00 Talk: Anatomy of a Phishing Campaign
+
+Mike Fiedler
+
+https://ep2026.europython.eu/session/anatomy-of-a-phishing-campaign
+
+Already seen [the PyCon US version (that is very similar)](https://www.youtube.com/watch?v=uXW1qeUS6Yw), but worth a replay.
+
+### 14h30-15h00 Talk: Leverage pytest's Fixture to write focused and highly decoupled tests
+
+Antonio Spadaro
+
+https://ep2026.europython.eu/session/leverage-pytest-s-fixture-to-write-focused-and-highly-decoupled-tests
+
+May be worth a replay.
+
+### 14h30-15h00 Talk: What is this footgun called unittest.mock, and how to avoid misusing it
+
+Claudiu Belu
+
+https://ep2026.europython.eu/session/what-is-this-footgun-called-unittest-mock-and-how-to-avoid-misusing-it
+
+May be worth a replay, specially for the OpenStack part.
 
 ### TODO
 
@@ -313,10 +345,10 @@ Petr Viktorin
 
 ### TODO
 
-## Saturday 2026-07-18: Sprint
+## Saturday 2026-07-18: Sprints
 
 Skipped it to visit the city instead.
 
-## Sunday 2026-06-19: Sprint
+## Sunday 2026-06-19: Sprints
 
 Already left, sorry.

@@ -487,7 +487,10 @@ https://ep2026.europython.eu/session/how-to-run-160-km-building-resilience-when-
 
 ### 17h25-18h10: Lightning Talks
 
-* TODO
+* connectiong "talk to people you don't know", take many selfies, ask for consent
+* Grade Delouis, "how PowerBI made me think I know nothing in Python"
+* "how to get data flowing", pyblish, flowpipe, https://codeberg.org/moqodow/data-processor
+* Python for Control systems @ Solaris Centre: control devices, mid layer for computations, GUIs and SCADA oveview, motorisation, experiment control, timesharing, ... using PyTango, Qt, Sardana, Tauros, Ansible, Flask, FastAPI, ...
 
 ### 19h00: Social event
 

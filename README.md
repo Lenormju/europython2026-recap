@@ -319,6 +319,13 @@ https://ep2026.europython.eu/session/navigating-waters-of-background-jobs-and-qu
 Look into Dramatiq. Also, Temporal is a good fit for complex workflows.
 Shared to Ludo.
 
+Pick your battles when making architecture decisions:
+* simplicity
+* developer experience
+* async support
+* observability
+* AI skills
+
 ### 10h50-11h35 Talk: From one to 1 million packet/second: scaling global Internet monitoring
 
 Marco Grossi
@@ -346,6 +353,21 @@ Won't attend, but worth a replay.
 Daria Korsakova
 
 https://ep2026.europython.eu/session/stop-firefighting-practical-observability-for-python-apis-workers-jobs
+
+https://medium.com/manychat-engineering/practical-observability-checklist-for-apis-workers-jobs-part-1-c9c18ffc23d5
+
+https://medium.com/manychat-engineering/practical-observability-checklist-for-apis-workers-jobs-part-2-d07553ee80f1
+
+TODO slides
+
+what does observable mean?
+* is it up?
+* is it **ready**?
+* is it doing useful work?
+* is it failing?
+* is it slow?
+* what changed recently?
+* Which dependency, workload, customer, job, event, ... is processed?
 
 ## 12h25-12h55 Talk: Immutability: Fast and Safe sharing of Data across Subinterpreters
 

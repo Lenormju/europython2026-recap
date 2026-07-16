@@ -206,7 +206,7 @@ https://orcwg.org/cra/
 
 https://cra.orcwg.org/faq/all/
 
-### 16h45-17h30 Podcast: Core.py recording with Guido van Rossum
+### 16h45-17h30 Keynote podcast: Core.py recording with Guido van Rossum
 
 Pablo Galindo Salgado, Guido van Rossum, Łukasz Langa
 
@@ -337,7 +337,45 @@ https://ep2026.europython.eu/session/what-is-this-footgun-called-unittest-mock-a
 
 May be worth a replay, specially for the OpenStack part.
 
-### TODO
+### 14h30-16h30 Workshop: Leading Under Pressure
+
+Tereza Iofciu
+
+https://ep2026.europython.eu/session/leading-under-pressure
+
+### 16h00-16h30 Talk: Learning from the not-so-secret Python security "cabal"
+
+Seth Michael Larson
+
+https://ep2026.europython.eu/session/learning-from-the-not-so-secret-python-security-cabal
+
+Worth a replay.
+
+### 16h00-16h30 Talk: Binary Dependencies: Identifying the Hidden Packages We All Depend On
+
+Vlad-Stefan Harbuz
+
+https://ep2026.europython.eu/session/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on
+
+Very interesting, I'll watch a replay if I can't attend.
+
+### 16h00-16h30 Talk: AI Slop to AI Gold: Building Codebases That Last
+
+Dan Jones
+
+https://ep2026.europython.eu/session/ai-slop-to-ai-gold-building-codebases-that-last
+
+May be interesting to replay.
+
+### 16h40-17h25: Keynote: How to Run 160 KM: Building Resilience When Things Feel Hard
+
+Leah Wasser
+
+https://ep2026.europython.eu/session/how-to-run-160-km-building-resilience-when-things-feel-hard
+
+### 17h25-18h10: Lightning Talks
+
+* TODO
 
 ### 19h00: Social event
 

@@ -208,7 +208,30 @@ Pablo Galindo Salgado, Guido van Rossum, Łukasz Langa
 
 ### 17h40-17h55: Python Quiz
 
+In Python2, what does the following cursed code output?
+
+```
+print`3<3`[~3]
+```
+
+1. `'a'`
+2. `25`
+3. `True`
+4. `SyntaxError`
+
+<details>
+    <summary>Answer</summary>
+    a
+</details>
+
 ### 17h55-18h40: Lightning talks
+
+* rafting and hackathon: HALT (Hungry, Angry, Lonely, Tired), so bring chocolate
+* Marimo is a better jupyter notebook
+* rant about how long it would take (5 years) for Python to deprecate the IPv6 reserved address, from a RFC published 21 years ago, which make the would-be contributor give up, like so many others
+* ariadne is a library to implemnt GraphQL server, the lightning talk was about how to optimize (reduce queries number) when using SQLAlchemy as a backend
+* App to catalog the elogical data from the UK national history museum gardens
+* The "boy scout rules" applied to codebase, and how to write better plugins using https://betterpy.dev/
 
 ## Thursday 2026-07-16: Talks
 
@@ -217,6 +240,10 @@ Pablo Galindo Salgado, Guido van Rossum, Łukasz Langa
 Marlene Mhangami
 
 https://ep2026.europython.eu/session/the-pursuit-of-purity-the-right-way-to-do-ai
+
+https://github.com/marlenezw/europython26
+
+> I keep struggling to find ways to try them the right way, the way that people I know and otherwise respect claim to be using them.  — Glyph Lefkowitz, “I think I’m done thinking about genAI for now” (2025)
 
 ### 10h05-10h30 Announcement: Python Steering Council Update
 
@@ -243,6 +270,40 @@ https://ep2026.europython.eu/session/from-one-to-1-million-packet-second-scaling
 Will Vincent
 
 https://ep2026.europython.eu/session/deploying-python-web-apps-in-2026
+
+## 12h25-12h55 Talk: Django’s Magic, FastAPI’s Reality: Test Isolation at Scale
+
+Maciej Sobczak
+
+https://ep2026.europython.eu/session/djangos-magic-fastapis-reality-test-isolation-at-scale
+
+Won't attend, but worth a replay.
+
+## 12h25-12h55 Talk: Stop firefighting: practical observability for Python APIs, workers & jobs
+
+Daria Korsakova
+
+https://ep2026.europython.eu/session/stop-firefighting-practical-observability-for-python-apis-workers-jobs
+
+## 12h25-12h55 Talk: Immutability: Fast and Safe sharing of Data across Subinterpreters
+
+Fridtjof Stoldt, Tobias Wrigstad
+
+https://ep2026.europython.eu/session/immutability-fast-and-safe-sharing-of-data-across-subinterpreters
+
+Seems interestingn but very situational.
+
+## 13h05-13h35 Talk: Python Dicts: Past, Present, and Free-Threaded Future
+
+Lysandros Nikolaou
+
+https://ep2026.europython.eu/session/python-dicts-past-present-and-free-threaded-future
+
+### 13h15-14h15 Poster: Python Syntax Diagram
+
+Petr Viktorin
+
+### 14h30-15h00 Talk: 
 
 ### TODO
 

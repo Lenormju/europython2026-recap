@@ -607,6 +607,8 @@ Maria Lowas-Rzechonek
 
 https://ep2026.europython.eu/session/how-to-tackle-complex-authorization-logic-and-don-t-go-crazy
 
+https://github.com/MarysiaLowas/EduLight
+
 ### 13h55-14h25 Talk: Powering Up Your Types with Annotated
 
 Vladyslav Fedoriuk

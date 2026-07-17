@@ -609,6 +609,11 @@ https://ep2026.europython.eu/session/how-to-tackle-complex-authorization-logic-a
 
 https://github.com/MarysiaLowas/EduLight
 
+ABAC:
+* Actor, Action, Ressource, Context
+* Policies
+* Policy Decision Point (PDP), Policy Enforcement Point (PEP)
+
 ### 13h55-14h25 Talk: Powering Up Your Types with Annotated
 
 Vladyslav Fedoriuk

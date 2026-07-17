@@ -134,6 +134,8 @@ Could not attend, the room was too crowded.
 
 https://summerscope.github.io/slides/the-human-in-the-loop-is-tired-pl/
 
+https://pydantic.dev/articles/the-human-in-the-loop-is-tired
+
 ### 11h40-12h10 Talk: Property based testing with Hypothesis
 
 Freya Bruhin
@@ -498,7 +500,118 @@ https://ep2026.europython.eu/session/how-to-run-160-km-building-resilience-when-
 
 ## Friday 2026-07-17: Talks
 
+### 09h00-09h45 Keynote: Securing Python for the next decade
+
+William Woodruff
+
+https://ep2026.europython.eu/session/securing-python-for-the-next-decade
+
+### 10h10-10h40 Talk: The coolest feature in Python 3.14: sys.remote_exec()
+
+Savannah Ostrowski
+
+https://ep2026.europython.eu/session/the-coolest-feature-in-python-3-14-sys-remote-exec
+
+### 10h10-10h40 Talk: Design Pressure: The Invisible Hand That Shapes Your Code
+
+Hynek Schlawack
+
+https://ep2026.europython.eu/session/design-pressure-the-invisible-hand-that-shapes-your-code
+
+### 10h05-10h35 Talk: Breaking changes – not great, not terrible
+
+Jan Musílek
+
+https://ep2026.europython.eu/session/breaking-changes-not-great-not-terrible
+
+### 10h05-10h35 Talk: Refactor, Optimize, and Test: Crafting Cleaner Python Code
+
+Mohamed Elmaghraby
+
+https://ep2026.europython.eu/session/refactor-optimize-and-test-crafting-cleaner-python-code
+
+### 11h45-12h15 Talk: Python in the Service of Justice: Modern Analysis Tools in Forensics
+
+Aleksander, Amelia Bartosiak
+
+https://ep2026.europython.eu/session/python-in-the-service-of-justice-modern-analysis-tools-in-forensics
+
+### 12h25-12h55 Talk: International Open Source – Your Best Choice in Interesting Times
+
+Deb Nicholson 
+
+https://ep2026.europython.eu/session/international-open-source-your-best-choice-in-interesting-times
+
+### 12h25-12h55 Talk: What I've Learned Maintaining the MCP Python SDK 
+
+Marcelo Trylesinski
+
+https://ep2026.europython.eu/session/what-i-ve-learned-maintaining-the-mcp-python-sdk
+
+### 12h55-13h55 Poster: reusable-tox.yml: Five Patterns to Eliminate CI/CD Boilerplate
+
+Sviatoslav Sydorenko
+
+https://ep2026.europython.eu/session/reusable-tox-yml-five-patterns-to-eliminate-ci-cd-boilerplate
+
+### 12h55-13h55 Poster: Why Coding Agents Fail at ML (and How to Fix It)
+
+Olha Poliuliakh
+
+https://ep2026.europython.eu/session/why-coding-agents-fail-at-ml-and-how-to-fix-it
+
+### 12h55-13h55 Poster: PyPartMC: A Pythonic interface enhancing Fortran-based simulation package
+
+Gracjan Adamus
+
+https://ep2026.europython.eu/session/pypartmc-a-pythonic-interface-enhancing-fortran-based-simulation-package
+
+### 13h55-14h25 Talk: How to tackle complex authorization logic (and don't go crazy)
+
+Maria Lowas-Rzechonek
+
+https://ep2026.europython.eu/session/how-to-tackle-complex-authorization-logic-and-don-t-go-crazy
+
+### 13h55-14h25 Talk: Powering Up Your Types with Annotated
+
+Vladyslav Fedoriuk
+
+https://ep2026.europython.eu/session/powering-up-your-types-with-annotated
+
+### 13h55-14h25 Talk: A vision for software freedom in 2048
+
+Matthias Kirschner
+
+https://ep2026.europython.eu/session/a-vision-for-software-freedom-in-2048
+
+### 14h35-15h05 Talk: The Problem with None: Sentinel Values and the Semantics of Absence
+
+Florian Wilhelm
+
+https://ep2026.europython.eu/session/the-problem-with-none-sentinel-values-and-the-semantics-of-absence
+
+### 14h35-15h05 Talk: From Ticket Taker to Problem Solver: Discovery for Senior Thinking
+
+Damian Wysocki
+
+https://ep2026.europython.eu/session/from-ticket-taker-to-problem-solver-discovery-for-senior-thinking
+
 ### TODO
+
+### 16h10-16h55 Keynote: Was, Is, Will Be: Python History, Software Engineering, And AI Our Way
+
+Paul Everitt
+
+https://ep2026.europython.eu/session/was-is-will-be-python-history-software-engineering-and-ai-our-way
+
+### 16h55-17h25: Lightning talks
+
+* TODO
+* TODO
+* TODO
+* TODO
+* TODO
+* TODO
 
 ## Saturday 2026-07-18: Sprints
 

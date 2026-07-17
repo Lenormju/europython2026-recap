@@ -8,17 +8,19 @@
 * [Saturday](#saturday-2026-07-18-sprints)
 * [Sunday](#sunday-2026-06-19-sprints)
 
-My favorites:
+My favorites ❤️:
 
 * Imogen Wright - How Complex Systems Taught Me To Fail
 * Nikita Karamov - Should you trust Trusted Publishing?
 * William Woodruff - Securing Python for the next decade
+* Hynek Schlawack - Design Pressure: The Invisible Hand That Shapes Your Code
 
-Talks to watch in replay:
+Talks I'd like to watch in replay:
 
 * Laura Summers - The Human-in-the-Loop is Tired
 * Marco Grossi - From one to 1 million packet/second: scaling global Internet 
 * Jonathan Striebel - uvx which-profiler – Which Profiler, When
+* Jan Koprowski - How we write unit test in my team in Openchip
 * Katie Bickford - Why doing difficult things is good for you and good for your team
 
 ## Monday 2026-07-13: Tutorials
@@ -480,7 +482,7 @@ Dan Jones
 
 https://ep2026.europython.eu/session/ai-slop-to-ai-gold-building-codebases-that-last
 
-May be interesting to replay.
+~~May be interesting to replay~~ heard bad feedback about it.
 
 ### 16h40-17h25: Keynote: How to Run 160 KM: Building Resilience When Things Feel Hard
 
@@ -525,11 +527,25 @@ Savannah Ostrowski
 
 https://ep2026.europython.eu/session/the-coolest-feature-in-python-3-14-sys-remote-exec
 
-### 10h10-10h40 Talk: Design Pressure: The Invisible Hand That Shapes Your Code
+### ❤️ 10h10-10h40 Talk: Design Pressure: The Invisible Hand That Shapes Your Code
 
 Hynek Schlawack
 
 https://ep2026.europython.eu/session/design-pressure-the-invisible-hand-that-shapes-your-code
+
+A new version of his last year's talk, to fill a spot last-minute. Still great to (re)watch.
+
+### 11h00-12h00 OpenSpace: What makes a good software architecture?
+
+https://ep2026.europython.eu/session/open-space/what-makes-a-good-software-architecture/
+
+https://cqrs.wordpress.com/wp-content/uploads/2010/11/cqrs_documents.pdf
+
+https://www.obeythetestinggoat.com/ by Harry Percival
+
+https://cleanarchitecture.io/
+
+https://www.cosmicpython.com/book/preface
 
 ### 10h05-10h35 Talk: Breaking changes – not great, not terrible
 
@@ -537,17 +553,23 @@ Jan Musílek
 
 https://ep2026.europython.eu/session/breaking-changes-not-great-not-terrible
 
+Did not attend.
+
 ### 10h05-10h35 Talk: Refactor, Optimize, and Test: Crafting Cleaner Python Code
 
 Mohamed Elmaghraby
 
 https://ep2026.europython.eu/session/refactor-optimize-and-test-crafting-cleaner-python-code
 
+Did not attend.
+
 ### 11h45-12h15 Talk: Python in the Service of Justice: Modern Analysis Tools in Forensics
 
 Aleksander, Amelia Bartosiak
 
 https://ep2026.europython.eu/session/python-in-the-service-of-justice-modern-analysis-tools-in-forensics
+
+Very interesting, but the end was sadly rushed.
 
 ### 12h25-12h55 Talk: International Open Source – Your Best Choice in Interesting Times
 
@@ -609,7 +631,11 @@ Damian Wysocki
 
 https://ep2026.europython.eu/session/from-ticket-taker-to-problem-solver-discovery-for-senior-thinking
 
-### TODO
+### 15h30-16h00 Talk: Defending Open Source from "AI" Slop: A Maintainer's Practical Guide
+
+Sviatoslav Sydorenko
+
+https://ep2026.europython.eu/session/defending-open-source-from-ai-slop-a-maintainer-s-practical-guide
 
 ### 16h10-16h55 Keynote: Was, Is, Will Be: Python History, Software Engineering, And AI Our Way
 

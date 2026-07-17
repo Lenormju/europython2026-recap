@@ -12,6 +12,7 @@ My favorites:
 
 * Imogen Wright - How Complex Systems Taught Me To Fail
 * Nikita Karamov - Should you trust Trusted Publishing?
+* William Woodruff - Securing Python for the next decade
 
 Talks to watch in replay:
 
@@ -500,7 +501,7 @@ https://ep2026.europython.eu/session/how-to-run-160-km-building-resilience-when-
 
 ## Friday 2026-07-17: Talks
 
-### 09h00-09h45 Keynote: Securing Python for the next decade
+### ❤️ 09h00-09h45 Keynote: Securing Python for the next decade
 
 William Woodruff
 

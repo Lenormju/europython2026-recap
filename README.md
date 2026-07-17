@@ -14,6 +14,7 @@ My favorites ❤️:
 * Nikita Karamov - Should you trust Trusted Publishing?
 * William Woodruff - Securing Python for the next decade
 * Hynek Schlawack - Design Pressure: The Invisible Hand That Shapes Your Code
+* Paul Everitt - Was, Is, Will Be: Python History, Software Engineering, And AI Our Way
 
 Talks I'd like to watch in replay:
 
@@ -577,11 +578,15 @@ Deb Nicholson
 
 https://ep2026.europython.eu/session/international-open-source-your-best-choice-in-interesting-times
 
+Catalog of current topics, I was expecting more insights.
+
 ### 12h25-12h55 Talk: What I've Learned Maintaining the MCP Python SDK 
 
 Marcelo Trylesinski
 
 https://ep2026.europython.eu/session/what-i-ve-learned-maintaining-the-mcp-python-sdk
+
+replay?
 
 ### 12h55-13h55 Poster: reusable-tox.yml: Five Patterns to Eliminate CI/CD Boilerplate
 
@@ -589,17 +594,23 @@ Sviatoslav Sydorenko
 
 https://ep2026.europython.eu/session/reusable-tox-yml-five-patterns-to-eliminate-ci-cd-boilerplate
 
+Seems very useful for config-matrix-runs and avoiding boilerplate, but GitHub only. 
+
 ### 12h55-13h55 Poster: Why Coding Agents Fail at ML (and How to Fix It)
 
 Olha Poliuliakh
 
 https://ep2026.europython.eu/session/why-coding-agents-fail-at-ml-and-how-to-fix-it
 
+Seemed very outdated (o1).
+
 ### 12h55-13h55 Poster: PyPartMC: A Pythonic interface enhancing Fortran-based simulation package
 
 Gracjan Adamus
 
 https://ep2026.europython.eu/session/pypartmc-a-pythonic-interface-enhancing-fortran-based-simulation-package
+
+Missing.
 
 ### 13h55-14h25 Talk: How to tackle complex authorization logic (and don't go crazy)
 
@@ -614,11 +625,15 @@ ABAC:
 * Policies
 * Policy Decision Point (PDP), Policy Enforcement Point (PEP)
 
+Sadly, she had technical problems, and her time ran out fast, she had to rush the end which was very important.
+
 ### 13h55-14h25 Talk: Powering Up Your Types with Annotated
 
 Vladyslav Fedoriuk
 
 https://ep2026.europython.eu/session/powering-up-your-types-with-annotated
+
+replay?
 
 ### 13h55-14h25 Talk: A vision for software freedom in 2048
 
@@ -626,11 +641,15 @@ Matthias Kirschner
 
 https://ep2026.europython.eu/session/a-vision-for-software-freedom-in-2048
 
+replay?
+
 ### 14h35-15h05 Talk: The Problem with None: Sentinel Values and the Semantics of Absence
 
 Florian Wilhelm
 
 https://ep2026.europython.eu/session/the-problem-with-none-sentinel-values-and-the-semantics-of-absence
+
+replay?
 
 ### 14h35-15h05 Talk: From Ticket Taker to Problem Solver: Discovery for Senior Thinking
 
@@ -638,30 +657,36 @@ Damian Wysocki
 
 https://ep2026.europython.eu/session/from-ticket-taker-to-problem-solver-discovery-for-senior-thinking
 
+Did the slides were AI-generated ? I did not noticed. The actual content was interesting though.
+
 ### 15h30-16h00 Talk: Defending Open Source from "AI" Slop: A Maintainer's Practical Guide
 
 Sviatoslav Sydorenko
 
 https://ep2026.europython.eu/session/defending-open-source-from-ai-slop-a-maintainer-s-practical-guide
 
-### 16h10-16h55 Keynote: Was, Is, Will Be: Python History, Software Engineering, And AI Our Way
+Did not see, and heard bad reviews about it.
+
+### ❤️ 16h10-16h55 Keynote: Was, Is, Will Be: Python History, Software Engineering, And AI Our Way
 
 Paul Everitt
 
 https://ep2026.europython.eu/session/was-is-will-be-python-history-software-engineering-and-ai-our-way
 
+Very entertaining and inspiring, with an efficient call-to-action. I hope to see it prosper!
+
 ### 16h55-17h25: Lightning talks
 
-* TODO
-* TODO
-* TODO
-* TODO
-* TODO
-* TODO
+* just do it, start a local community
+* try out brazilian jiu jitsu
+* @TiffanyGibier won the lottery
+* The Asturias region in Spain and their cider-related traditions
+* the last 2 years of my life were amazing, you should take chances too
+* music
 
 ## Saturday 2026-07-18: Sprints
 
-Skipped it to visit the city instead.
+TODO
 
 ## Sunday 2026-06-19: Sprints
 

@@ -506,6 +506,18 @@ William Woodruff
 
 https://ep2026.europython.eu/session/securing-python-for-the-next-decade
 
+https://yossarian.net/publications#europython-2026
+
+https://blog.pypi.org/posts/2025-09-23-plenty-of-phish-in-the-sea/
+
+https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html
+
+https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet/
+
+https://astral.sh/blog/uv-audit and `UV_MALWARE_CHECK`
+
+https://pytransparency.dev/ based on https://certificate.transparency.dev/howctworks/
+
 ### 10h10-10h40 Talk: The coolest feature in Python 3.14: sys.remote_exec()
 
 Savannah Ostrowski

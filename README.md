@@ -441,6 +441,8 @@ May be worth a replay.
 
 https://ilovelinux.dev/ep26
 
+https://ilovelinux.dev/talks/europython-2026-leverage-pytest-s-fixtures-to-write-focused-and-highly-decoupled-tests/
+
 ### 14h30-15h00 Talk: What is this footgun called unittest.mock, and how to avoid misusing it
 
 Claudiu Belu
@@ -666,6 +668,14 @@ Sviatoslav Sydorenko
 https://ep2026.europython.eu/session/defending-open-source-from-ai-slop-a-maintainer-s-practical-guide
 
 Did not see, and heard bad reviews about it.
+
+### 15h30-16h00 Talk: Fast and Furious: 26’s Tooling Stack for a Streamlined Developer Experience
+
+Nacho Llorca
+
+https://ep2026.europython.eu/session/fast-and-furious-26s-tooling-stack-for-a-streamlined-developer-experience
+
+https://github.com/nachollorca/mold
 
 ### ❤️ 16h10-16h55 Keynote: Was, Is, Will Be: Python History, Software Engineering, And AI Our Way
 

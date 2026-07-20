@@ -538,6 +538,8 @@ https://ep2026.europython.eu/session/design-pressure-the-invisible-hand-that-sha
 
 A new version of his last year's talk, to fill a spot last-minute. Still great to (re)watch.
 
+https://hynek.me/talks/design-pressure/
+
 ### 11h00-12h00 OpenSpace: What makes a good software architecture?
 
 https://ep2026.europython.eu/session/open-space/what-makes-a-good-software-architecture/
